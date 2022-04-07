@@ -1,0 +1,11 @@
+.get_text               Get the desired text from the xml_document
+clinicaltrialr-package
+                        clinicaltrialr: Import study records from
+                        ClinicalTrials.gov
+ct_read_results         Download the whole record of a single study
+ct_read_trial           Read commonly used information from
+                        ClinicalTrials.gov
+ct_read_trial_from_xml
+                        Read commonly used information from
+                        ClinicalTrials.gov
+ct_write_trial          Save a the XML file of a study

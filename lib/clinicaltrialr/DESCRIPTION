@@ -1,0 +1,28 @@
+Package: clinicaltrialr
+Type: Package
+Title: Get Complete Study Records from ClinicalTrials.gov
+Version: 0.6.7
+Authors@R: c(person("Stylianos", "Serghiou", role = c("aut", "cre"),
+                     email = "stelios.serghiou@gmail.com"))
+Description: Takes a user-provided NCT ID, downloads the respective
+    study record from ClinicalTrials.gov and turns its useful fields into an
+    easy to use dataset.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.1.2
+Imports: xml2, magrittr, tibble, readr, dplyr, stringr
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: clinicaltrialr
+RemoteUsername: serghiou
+RemoteRef: HEAD
+RemoteSha: 85a57c86f27e1cc9b7df1edcb9879d889e39d518
+GithubRepo: clinicaltrialr
+GithubUsername: serghiou
+GithubRef: HEAD
+GithubSHA1: 85a57c86f27e1cc9b7df1edcb9879d889e39d518
+NeedsCompilation: no
+Packaged: 2022-03-23 15:50:54 UTC; emmanuel
+Author: Stylianos Serghiou [aut, cre]
+Maintainer: Stylianos Serghiou <stelios.serghiou@gmail.com>
+Built: R 4.1.2; ; 2022-03-23 15:50:54 UTC; unix

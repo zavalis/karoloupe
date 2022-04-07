@@ -1,0 +1,7 @@
+clinicaltrialr-package	clinicaltrialr-package
+.get_text	dot-get_text
+clinicaltrialr	clinicaltrialr-package
+ct_read_results	ct_read_results
+ct_read_trial	ct_read_trial
+ct_read_trial_from_xml	ct_read_trial_from_xml
+ct_write_trial	ct_write_trial
