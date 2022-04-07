@@ -1,1 +1,3 @@
 # karoloupe
+It is quite straightforward you extract the csv of your search from PubMed (using the pmcoa search string `pubmed pmc open access[filter]`) then you run the jupyter notebook to extract the PMCOA files (in this case for Stanford University, Karolinska Institute and Lund University) and then initially you need to download the xml files and afterwards run the code it may take a while depending on how many you want to analyse so double check that everything is in order before running (17 thousand pmc files will take about 5 hours or so to run and then the rtransparent code will maybe take an hour).
+
